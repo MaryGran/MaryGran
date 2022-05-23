@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MaryGran
+- 👀 I’m interested in Python.
+- 🌱 I’m currently learning to get better at Python.
+- 💞️ I’m looking to share my codes and get feedback to improve myself.
+- 📫 How to reach me - Marigran007@gmail.com
